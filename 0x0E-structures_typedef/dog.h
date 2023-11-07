@@ -16,7 +16,6 @@
 		char *name;
 		float age;
 		char *owner;
-Return: 0
 	};
 
 
